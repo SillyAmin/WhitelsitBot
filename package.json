@@ -1,0 +1,19 @@
+{
+  "name": "whitelistbot",
+  "version": "1.0.0",
+  "description": "gives whitelist",
+  "main": "Wbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whitelist"
+  ],
+  "author": "SillyAdmin#5996",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "noblox.js": "^4.2.6",
+    "roblox-js": "^4.0.4"
+  }
+}
